@@ -1,4 +1,4 @@
-name: Sample Matrix Parallel
+name: Sample Matrix Parallel Test
 on: push
 jobs:
   job:
